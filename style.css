@@ -300,3 +300,28 @@ align-items: center;
   font-size: 18px;
   font-weight: 500;
 }
+@media (max-width: 768px) {
+
+  .navbar {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-section {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .hero-section img {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .cards {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+}
+
+
