@@ -1,0 +1,302 @@
+.navbar {
+  background: #e3e3e3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0;
+  position: sticky;
+  top: 0;
+ }
+
+.navlinks {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  font-size: 14px;
+}
+ .main{
+    text-align: center;
+    padding: 60px 15px;
+    background-color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+ }
+ .hero h1{
+    font-size: 50px;
+    font-weight: 600;
+ }
+ .hero p{
+    font-size: 28px;
+ }
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    
+}
+.learnbtn{
+   padding: 12px 25px;
+   border-radius:20px ;
+   font-size: 20px;
+   border: none;
+   cursor: pointer;
+   background-color:blue ;
+   color: white;
+   margin-bottom: 30px;
+}
+.shopbtn{
+   padding: 12px 25px;
+   border-radius:20px ;
+   font-size: 20px;
+   border: none;
+   cursor: pointer;
+   background-color: transparent;
+   color: blue;
+   border: 1px solid blue;
+   margin-bottom: 30px;
+}
+.iPhone-img{
+   max-width: 100%;
+   width: 600px;
+}
+.learnmorebtn{
+   padding: 12px 25px;
+   border-radius:20px ;
+   font-size: 20px;
+   border: none;
+   cursor: pointer;
+   background-color:blue ;
+   color: white;
+   margin-bottom: 30px;
+}
+.buybtn{
+   padding: 12px 25px;
+   border-radius:20px ;
+   font-size: 20px;
+   border: none;
+   cursor: pointer;
+   background-color: transparent;
+   color: blue;
+   border: 1px solid blue;
+   margin-bottom: 30px;
+}
+.spacer{
+   background-color: #e3e3e3;
+   height: 20px;
+   width: 100%;
+}
+.iPhone17-img {
+display: block;
+margin: 0 auto;
+width: 500px;
+height:400px;
+align-items: center;
+
+}
+.watch-img{
+display: block;
+margin: 0 auto;
+max-width: 300x;
+height: 300PX;
+align-items: center;
+}
+.ipad-img{
+display: block;
+margin: 0 auto;
+max-width: 350x;
+height: 400PX;
+align-items: center;
+}
+.freetrybtn{
+   padding: 12px 25px;
+   border-radius:20px ;
+   font-size: 20px;
+   border: none;
+   cursor: pointer;
+   background-color: transparent;
+   color: blue;
+   border: 1px solid blue;
+   margin-bottom: 30px;
+}
+.fitness{
+   width: 50%;
+   background-color: white;
+   color: black;
+   text-align: center;
+   padding: 60px 40px;
+   position: relative;
+   
+}
+.macbook{
+   width: 50%;
+   background-color:black;
+   color: white;
+   text-align: center;
+   padding: 60px 40px;
+   position: relative;
+   
+}
+.fitnessnmacbook{
+   display: flex;
+   width: 100%;
+}
+.airpodsnwatch{
+   display: flex;
+   width: 100%;
+}
+.airpods{
+   width: 50%;
+   background-color: white;
+   color: black;
+   text-align: center;
+   padding: 60px 40px;
+   position: relative;
+}
+.watch-ultra3{
+   width: 50%;
+   background-color:black;
+   color: white;
+   text-align: center;
+   padding: 60px 40px;
+   position: relative;
+   
+}
+.estimatebtn{
+   padding: 12px 25px;
+   border-radius:20px ;
+   font-size: 20px;
+   border: none;
+   cursor: pointer;
+   background-color:blue ;
+   color: white;
+   margin-bottom: 30px;
+}
+.applybtn{
+   padding: 12px 25px;
+   border-radius:20px ;
+   font-size: 20px;
+   border: none;
+   cursor: pointer;
+   background-color: transparent;
+   color: blue;
+   border: 1px solid blue;
+   margin-bottom: 30px;
+}
+.tradencard{
+   display: flex;
+   width: 100%;
+   
+}
+.trade{
+   width: 50%;
+   background-color: white;
+   color: black;
+   text-align: center;
+   padding: 60px 40px;
+   position: relative;
+   
+}
+.card{
+   width: 50%;
+   background-color: white;
+   color: black;
+   text-align: center;
+   padding: 60px 40px;
+   position: relative;
+   
+   
+}
+.fitness-img {
+display: block;
+margin: 0 auto;
+width: 300px;
+height:250px;
+align-items: center;
+}
+.macbook-img {
+display: block;
+margin: 0 auto;
+width: 300px;
+height:250px;
+align-items: center;
+}
+.watch-ultra-img {
+display: block;
+margin: 0 auto;
+width: 300px;
+height:250px;
+align-items: center;
+}
+.airpods-img {
+display: block;
+margin: 0 auto;
+width: 300px;
+height:250px;
+align-items: center;
+}
+.trade-img {
+display: block;
+margin: 0 auto;
+width: 100%;
+height:320px;
+align-items: center;
+}
+.card-img {
+display: block;
+margin: 0 auto;
+width: 300px;
+height:300px;
+align-items: center;
+}
+.entertainment-section
+ {
+  padding: 80px 0;
+  background: #f5f5f7;
+}
+
+.entertainment-section h2 {
+  font-size: 40px;
+  font-weight: 600;
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+
+.slider-container {
+  overflow-x: auto;
+  padding-left: 60px;
+}
+
+.slider {
+  display: flex;
+  gap: 25px;
+}
+
+.card {
+  min-width: 400px;
+  height: 420px;
+  border-radius: 18px;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
